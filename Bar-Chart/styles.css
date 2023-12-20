@@ -1,0 +1,23 @@
+body {
+    margin-top: 50px;
+    background : LightGray;
+}
+  
+.infoGraphic{
+    background : white;
+    padding: 10px;
+    box-shadow: 10px 10px;
+}
+  
+.tooltipBox{
+    font: 18px sans-serif;
+    background-color: yellow;
+    text-align: center;
+    padding: 3px;
+    margin: 1px;
+    color: black;  
+}
+  
+.bar:hover{
+    fill: green;
+}
